@@ -1,0 +1,8 @@
+"""
+requirements.txt
+Dependencies untuk CHECKCOMCHEMISTRY
+"""
+streamlit==1.28.1
+pandas==2.0.3
+plotly==5.16.1
+numpy==1.24.3
